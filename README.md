@@ -1,4 +1,4 @@
-# NZ Fly Fishing Calendar
+# New Zealand Fly Fishing Calendar
 
 iCalendar (.ics) file for tracking New Zealand freshwater fly fishing season dates.
 
