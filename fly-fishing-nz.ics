@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//NZ Fly Fishing Seasons//EN
+PRODID:-//NZ Fly Fishing//EN
 METHOD:PUBLISH
 X-WR-CALNAME:NZ Fly Fishing Seasons
 BEGIN:VEVENT
@@ -50,7 +50,7 @@ DTEND;VALUE=DATE:20270601
 RRULE:FREQ=YEARLY;BYMONTH=11;BYMONTHDAY=1
 SUMMARY:Backcountry & designated waters season
 DESCRIPTION:Many designated backcountry and headwater rivers open later\, a
- round 1 November\; some southern rivers run to 31 May. Dates vary - check 
+ round 1 November\; some southern rivers run to 31 May. Dates vary - check
  the regional Anglers Notice.
 CATEGORIES:Fly Fishing,New Zealand,Backcountry
 TRANSP:TRANSPARENT
@@ -77,7 +77,7 @@ DTEND;VALUE=DATE:20270701
 RRULE:FREQ=YEARLY;BYMONTH=5;BYMONTHDAY=1
 SUMMARY:North Island winter fishing (designated waters)
 DESCRIPTION:Some designated North Island rivers (parts of the Eastern and A
- uckland/Waikato regions) stay open for winter fishing past the general 30 
+ uckland/Waikato regions) stay open for winter fishing past the general 30
  April close\, until 30 June.
 CATEGORIES:Fly Fishing,New Zealand,Winter Fishery
 TRANSP:TRANSPARENT

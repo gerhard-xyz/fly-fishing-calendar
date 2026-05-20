@@ -1,4 +1,4 @@
-# NZ Fly Fishing Seasons Calendar
+# NZ Fly Fishing Calendar
 
 iCalendar (.ics) file for tracking New Zealand freshwater fly fishing season dates.
 
@@ -6,7 +6,7 @@ iCalendar (.ics) file for tracking New Zealand freshwater fly fishing season dat
 
 Subscribing keeps your calendar in sync automatically. Use this URL:
 
-`https://raw.githubusercontent.com/gerhard-xyz/fly-fishing-calendar/main/nz-fly-fishing-seasons.ics`
+`https://raw.githubusercontent.com/gerhard-xyz/fly-fishing-calendar/main/fly-fishing-nz.ics`
 
 **Apple Calendar:** File > New Calendar Subscription, paste the URL, click Subscribe.
 
@@ -18,7 +18,7 @@ Tip: swap `https://` for `webcal://` to let some apps add it in one click.
 
 ## One-time import
 
-To import a static copy instead of subscribing, download [`nz-fly-fishing-seasons.ics`](nz-fly-fishing-seasons.ics) and open it in your calendar app, or use File > Import.
+To import a static copy instead of subscribing, download [`fly-fishing-nz.ics`](fly-fishing-nz.ics) and open it in your calendar app, or use File > Import.
 
 ## What's included
 
