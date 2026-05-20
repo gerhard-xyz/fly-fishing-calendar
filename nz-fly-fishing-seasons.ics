@@ -1,0 +1,149 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NZ Fly Fishing Seasons//EN
+METHOD:PUBLISH
+X-WR-CALNAME:NZ Fly Fishing Seasons
+BEGIN:VEVENT
+UID:nz-general-river-season@nz-fly-fishing-seasons
+DTSTAMP:20260519T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20270501
+RRULE:FREQ=YEARLY;BYMONTH=10;BYMONTHDAY=1
+SUMMARY:NZ general sports fish season (rivers & streams)
+DESCRIPTION:Main trout season for most NZ rivers and streams. Some waters s
+ tay open all year and regional rules vary - check Fish & Game.
+CATEGORIES:Fly Fishing,New Zealand,National
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nz-general-season-opens@nz-fly-fishing-seasons
+DTSTAMP:20260519T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+RRULE:FREQ=YEARLY;BYMONTH=10;BYMONTHDAY=1
+SUMMARY:Fishing season opens (NZ general)
+DESCRIPTION:Opening day of the general sports fish season for most NZ river
+ s.
+CATEGORIES:Fly Fishing,New Zealand,National,Boundary
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nz-general-season-closes@nz-fly-fishing-seasons
+DTSTAMP:20260519T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+RRULE:FREQ=YEARLY;BYMONTH=4;BYMONTHDAY=30
+SUMMARY:Fishing season closes (NZ general)
+DESCRIPTION:Close of the general river and stream fishing season.
+CATEGORIES:Fly Fishing,New Zealand,National,Boundary
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nz-backcountry-season@nz-fly-fishing-seasons
+DTSTAMP:20260519T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20270601
+RRULE:FREQ=YEARLY;BYMONTH=11;BYMONTHDAY=1
+SUMMARY:Backcountry & designated waters season
+DESCRIPTION:Many designated backcountry and headwater rivers open later\, a
+ round 1 November\; some southern rivers run to 31 May. Dates vary - check 
+ the regional Anglers Notice.
+CATEGORIES:Fly Fishing,New Zealand,Backcountry
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nz-backcountry-opens@nz-fly-fishing-seasons
+DTSTAMP:20260519T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+RRULE:FREQ=YEARLY;BYMONTH=11;BYMONTHDAY=1
+SUMMARY:Backcountry rivers open (typical)
+DESCRIPTION:Typical opening day for designated backcountry and headwater ri
+ vers.
+CATEGORIES:Fly Fishing,New Zealand,Backcountry,Boundary
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nz-winter-fishery@nz-fly-fishing-seasons
+DTSTAMP:20260519T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270701
+RRULE:FREQ=YEARLY;BYMONTH=5;BYMONTHDAY=1
+SUMMARY:North Island winter fishing (designated waters)
+DESCRIPTION:Some designated North Island rivers (parts of the Eastern and A
+ uckland/Waikato regions) stay open for winter fishing past the general 30 
+ April close\, until 30 June.
+CATEGORIES:Fly Fishing,New Zealand,Winter Fishery
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nz-winter-fishery-closes@nz-fly-fishing-seasons
+DTSTAMP:20260519T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+RRULE:FREQ=YEARLY;BYMONTH=6;BYMONTHDAY=30
+SUMMARY:Winter fishing closes (designated North Island waters)
+DESCRIPTION:Close of winter fishing on designated North Island rivers.
+CATEGORIES:Fly Fishing,New Zealand,Winter Fishery,Boundary
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taupo-river-season@nz-fly-fishing-seasons
+DTSTAMP:20260519T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20270601
+RRULE:FREQ=YEARLY;BYMONTH=12;BYMONTHDAY=1
+SUMMARY:Taupō District river season (above winter limits)
+DESCRIPTION:Taupō District season for rivers and streams above the winter-
+ fishing limits. Lake Taupō and the lower Tongariro stay open all year.
+CATEGORIES:Fly Fishing,New Zealand,Taupō District
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taupo-season-opens@nz-fly-fishing-seasons
+DTSTAMP:20260519T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+RRULE:FREQ=YEARLY;BYMONTH=12;BYMONTHDAY=1
+SUMMARY:Taupō District river season opens
+DESCRIPTION:Opening day for Taupō District rivers above the winter-fishing
+  limits.
+CATEGORIES:Fly Fishing,New Zealand,Taupō District,Boundary
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taupo-season-closes@nz-fly-fishing-seasons
+DTSTAMP:20260519T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+RRULE:FREQ=YEARLY;BYMONTH=5;BYMONTHDAY=31
+SUMMARY:Taupō District river season closes
+DESCRIPTION:Close of the Taupō District river season above the winter limi
+ ts.
+CATEGORIES:Fly Fishing,New Zealand,Taupō District,Boundary
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nz-year-round-waters@nz-fly-fishing-seasons
+DTSTAMP:20260519T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+RRULE:FREQ=YEARLY;BYMONTH=1;BYMONTHDAY=1
+SUMMARY:Year-round fisheries (no closed season)
+DESCRIPTION:Reminder: many lakes and lower river reaches have no closed sea
+ son\, including Lake Taupō and the lower Tongariro. Check regional rules.
+CATEGORIES:Fly Fishing,New Zealand,Year-round
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
